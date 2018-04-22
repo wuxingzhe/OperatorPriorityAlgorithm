@@ -1,0 +1,9 @@
+c:\users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\bin\Debug\OperatorPriorityAlgorithm.exe.config
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\bin\Debug\OperatorPriorityAlgorithm.exe
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\bin\Debug\OperatorPriorityAlgorithm.pdb
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.Form1.resources
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.Properties.Resources.resources
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.csproj.GenerateResource.Cache
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.exe
+C:\Users\xingzhe\documents\visual studio 2015\Projects\OperatorPriorityAlgorithm\OperatorPriorityAlgorithm\obj\Debug\OperatorPriorityAlgorithm.pdb
